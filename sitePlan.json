@@ -1,0 +1,42 @@
+{
+  "businessName": "CANCEE MORE Resources & Ventures",
+  "industry": "Manufacturing",
+  "tone": "professional",
+  "tagline": "Quality Manufacturing Solutions for Nigeria's Growing Economy",
+  "sections": [
+    {
+      "id": "hero",
+      "name": "Hero",
+      "copy": "CANCEE MORE Resources & Ventures - Your Trusted Manufacturing Partner in Imo State. Delivering excellence in production and quality across Nigeria. Located in the heart of Isiala Mbano, we bring world-class manufacturing capabilities to your doorstep.",
+      "imagePrompt": "Modern Nigerian manufacturing facility exterior with clean industrial architecture, bright daylight, Nigerian flag visible, well-maintained compound with workers in safety gear, professional industrial setting in southeastern Nigeria, photorealistic, high quality",
+      "layout": "centered"
+    },
+    {
+      "id": "about",
+      "name": "About Us",
+      "copy": "CANCEE MORE Resources & Ventures is a leading manufacturing company based in Isiala Mbano, Imo State. We combine modern manufacturing techniques with local expertise to deliver products that meet both national and international standards. Our strategic location at St. Peters Catholic Church, Umunpele Amauzari, positions us to serve clients across southeastern Nigeria and beyond. With a commitment to quality, reliability, and innovation, we are building Nigeria's manufacturing future one product at a time.",
+      "imagePrompt": "Nigerian manufacturing workers collaborating in a clean factory floor, diverse team examining quality products, modern equipment in background, natural lighting through factory windows, professional industrial environment, photorealistic",
+      "layout": "split"
+    },
+    {
+      "id": "services",
+      "name": "Our Manufacturing Services",
+      "copy": "At CANCEE MORE Resources & Ventures, we offer comprehensive manufacturing solutions tailored to meet the diverse needs of Nigerian businesses. Our state-of-the-art facilities and experienced team ensure precision, quality, and timely delivery across all our production lines. From concept to finished product, we partner with you every step of the way to bring your vision to life with excellence and efficiency.",
+      "imagePrompt": "Array of manufactured products on display in well-lit Nigerian warehouse, organized inventory shelving, quality control stations, modern manufacturing equipment, professional industrial photography, photorealistic, sharp details",
+      "layout": "grid"
+    },
+    {
+      "id": "contact",
+      "name": "Contact Us",
+      "copy": "Ready to discuss your manufacturing needs? Get in touch with CANCEE MORE Resources & Ventures today. Our team is available to answer your questions and provide customized solutions for your business. Visit our facility in Isiala Mbano or reach out via phone or WhatsApp for immediate assistance.",
+      "imagePrompt": "Professional Nigerian business office reception area, modern desk with computer, welcoming atmosphere, Nigerian business environment, natural lighting, clean and organized space, photorealistic",
+      "layout": "centered"
+    }
+  ],
+  "contact": {
+    "phone": "+234 806 849 7463",
+    "email": "info@canceemoreresources.com",
+    "address": "St. Peters Catholic Church, Umunpele Amauzari, Isiala Mbano, Imo State, Nigeria",
+    "whatsapp": "https://wa.me/2348068497463"
+  }
+}
